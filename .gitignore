@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Configuration files
+config.py
+configCopia.py
+config.pyc
+
+# Packages
+*.py[a-z]
+mysql*
+*.pyc
+migrations/*
+__pycache__/*
+_pycache_/*
+visualtool.py
+.pylintrc
+
+# Analysis 
+*.png
+*.dot
