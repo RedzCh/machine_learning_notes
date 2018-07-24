@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %} - Home{% endblock %}
+{% block page_content %}
+
+	<div class="page-header">
+		<h1> Importance of the features </h1>
+	</div>
+
+	<div class="img">
+		<img id="result" src="{{ url_for('static', filename = 'result.svg') }}" alt="Results">
+	</div>
+
+{% endblock %}
+{% block scripts %}
+{{ super() }}
+{% endblock %}
