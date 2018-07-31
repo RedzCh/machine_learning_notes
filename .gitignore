@@ -19,3 +19,6 @@ visualtool.py
 # Analysis 
 *.png
 *.dot
+
+# ipynb
+.ipynb_checkpoints/
