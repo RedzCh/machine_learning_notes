@@ -19,7 +19,7 @@ This notebook contains:
 * 1 - Define the problem
 * 2 - Load data and displaying info
 * 3 - Prepare Data
-    * [Identify features](#identify)
+    * [Identify features]
         * Separate numerical from categorical features
         * Separate nominal and ordinal (from categorical features)
     * [Clean data]
