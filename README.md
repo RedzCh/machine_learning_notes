@@ -2,11 +2,11 @@
 
 As part of ***Machine Learning Study Group*** from recworks meet-a-mentor community work on kaggle ML project.
 
-We use Jupyter Notebook, Python and some libraries (Pandas, NumPy, Matplotlib and Scikit-learn) to solve ML problems on public datasets. We have started with the following dataset from Kaggle:
+We use Jupyter Notebook, Python and some libraries (Pandas, NumPy, Matplotlib, and Scikit-learn) to solve ML problems on public datasets. We have started with the following dataset from Kaggle:
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-This project is the result of the joint effort of a study group of enthusiastic people from different professional background. Anyone is welcome to join and to contribute with the discussions. 
+This project is the result of the joint effort of a study group of enthusiastic people from different professional backgrounds. Anyone is welcome to join and to contribute with the discussions. 
 
 The best way to join the project is by assisting during our regular sessions.  Also, feel free to fork and check what we have done in this project. We are very happy to receive any comment and suggestions to improve.
 
