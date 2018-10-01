@@ -13,7 +13,6 @@ class FileBrowser(object):
         self.dirs = list()
         if(os.path.isdir(self.path)):
             for f in os.listdir(self.path):
-                #ff = self.path + "/" + f
                 ff = os.path.join(self.path, f)
                 if os.path.isdir(ff):
                     self.dirs.append(f)
@@ -31,7 +30,6 @@ class FileBrowser(object):
             if b.description == '..':
                 self.path = os.path.split(self.path)[0]
             else:
-                #self.path = self.path + "/" + b.description
                 self.path = os.path.join(self.path, b.description)
             self._update_files()
             self._update(box)
